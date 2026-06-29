@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td>📍 <b>Location:</b> India</td>
-      <td>💼 <b>Experience:</b> 3+ Years</td>
+      <td>💼 <b>Experience:</b> 4 Years</td>
       <td>🚀 <b>Projects Shipped:</b> 50+</td>
     </tr>
   </table>
