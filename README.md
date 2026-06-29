@@ -1,13 +1,3 @@
-<!--
-================================================================================
-📌 GITHUB PROFILE README PLACEHOLDERS INSTRUCTIONS:
-Search and replace the following placeholders in this file:
-- YOUR_USERNAME       -> Your GitHub username (e.g., sjuk98)
-- YOUR_LINKEDIN_URL   -> Link to your LinkedIn profile
-- YOUR_EMAIL_ADDRESS  -> Your professional email address
-================================================================================
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=0072ff&height=260&section=header&text=Shiju%20UK&fontSize=70&theme=dark&fontColor=00c6ff&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20Solutions%20Architect&descAlignY=55&descSize=18&customColorList=13" width="100%" alt="Header Wave"/>
 </p>
@@ -112,31 +102,26 @@ Search and replace the following placeholders in this file:
   <table border="0">
     <tr>
       <td align="center">
-        <!-- Replace YOUR_USERNAME with your GitHub username -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&icon_color=0072ff&border_color=0072ff&border_radius=10" alt="GitHub Stats" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sjuk98&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&icon_color=0072ff&border_color=0072ff&border_radius=10" alt="GitHub Stats" width="400"/>
       </td>
       <td align="center">
-        <!-- Replace YOUR_USERNAME with your GitHub username -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d1117&title=00c6ff&text=c9d1d9&fire=0072ff&ring=00c6ff&border=0072ff" alt="GitHub Streak" width="400"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjuk98&theme=tokyonight&background=0d1117&title=00c6ff&text=c9d1d9&fire=0072ff&ring=00c6ff&border=0072ff" alt="GitHub Streak" width="400"/>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <!-- Replace YOUR_USERNAME with your GitHub username -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&border_color=0072ff&border_radius=10" alt="Top Langs" width="400"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjuk98&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&border_color=0072ff&border_radius=10" alt="Top Langs" width="400"/>
       </td>
       <td align="center">
-        <!-- Replace YOUR_USERNAME with your GitHub username -->
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="Profile Summary Cards" width="400"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjuk98&theme=tokyonight" alt="Profile Summary Cards" width="400"/>
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <!-- Replace YOUR_USERNAME with your GitHub username -->
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sjuk98&theme=onedark&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -218,16 +203,13 @@ Search and replace the following placeholders in this file:
 
 <div align="center">
 
-  <!-- Replace YOUR_LINKEDIN_URL with your LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/shiju-uk-1a320620a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;
-  <!-- Replace YOUR_EMAIL_ADDRESS with your email address -->
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:shijuuk98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> &nbsp;
-  <!-- Replace YOUR_USERNAME with your GitHub username -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/sjuk98" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -236,8 +218,7 @@ Search and replace the following placeholders in this file:
 <br/>
 
 <div align="center">
-  <!-- Replace YOUR_USERNAME with your GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00c6ff&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=sjuk98&color=00c6ff&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
 </div>
 
 <p align="center">
