@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f1310&secondaryColor=4a5d23&height=260&section=header&text=Shiju%20UK&fontSize=70&theme=dark&fontColor=c4d793&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20Solutions%20Architect&descAlignY=55&descSize=18" width="100%" alt="Header Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f1310&secondaryColor=4a5d23&height=260&section=header&text=Shiju%20UK&fontSize=70&theme=dark&fontColor=c4d793&fontAlignY=35&desc=Senior%20Full%20Stack%20Developer%20%7C%20Solutions%20Architect&descAlignY=55&descSize=18&v=1.0.1" width="100%" alt="Header Wave"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4d793&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Solutions+Architect;Technical+Team+Lead;AI+%26+Cloud+Infrastructure+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=c4d793&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Solutions+Architect;Technical+Team+Lead;AI+%26+Cloud+Infrastructure+Engineer&v=1.0.1" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://shijuuk.space" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Portfolio-shijuuk.space-c4d793?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a5d23" alt="Explore Portfolio" />
+    <img src="https://img.shields.io/badge/Explore_Portfolio-shijuuk.space-c4d793?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a5d23&v=1.0.1" alt="Explore Portfolio" />
   </a>
 </p>
 
@@ -204,7 +204,7 @@
 <div align="center">
 
   <a href="https://shijuuk.space" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Portfolio-shijuuk.space-c4d793?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a5d23" alt="Explore Portfolio" />
+    <img src="https://img.shields.io/badge/Explore_Portfolio-shijuuk.space-c4d793?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4a5d23&v=1.0.1" alt="Explore Portfolio" />
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/shiju-uk-1a320620a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -221,9 +221,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sjuk98&color=c4d793&style=flat-square&label=Profile+Views" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=sjuk98&color=c4d793&style=flat-square&label=Profile+Views&v=1.0.1" alt="Visitor Counter" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f1310&secondaryColor=4a5d23&height=120&section=footer&theme=dark" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f1310&secondaryColor=4a5d23&height=120&section=footer&theme=dark&v=1.0.1" width="100%" alt="Footer Wave"/>
 </p>
