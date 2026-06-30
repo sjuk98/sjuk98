@@ -123,12 +123,6 @@
       </td>
     </tr>
   </table>
-  
-  <br/>
-  
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-trophies.devomb.com/?username=sjuk98&theme=onedark&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
-
 </div>
 
 ---
