@@ -161,10 +161,10 @@
           <sub><b>Tech Stack:</b> Node.js, React.js, PostgreSQL, Sumsub KYC, MT5 API</sub>
         </div>
       </td>
-      <!-- Maxtron ERP -->
+      <!-- Enterprise ERP -->
       <td width="50%" valign="top">
         <div align="center">
-          <h3>⚙️ Maxtron ERP</h3>
+          <h3>⚙️ Enterprise ERP</h3>
           <img src="https://img.shields.io/badge/Enterprise-ERP-critical?style=flat-square" alt="Status" />
           <p>Secure inventory controllers, supplier validation systems, and custom dashboard components with robust role-based permissions.</p>
           <sub><b>Tech Stack:</b> Next.js, Supabase, Node.js</sub>
@@ -182,8 +182,8 @@
   <summary><b>🎓 Click to expand Certifications & Achievements</b></summary>
   <br/>
   <ul>
-    <li>🚀 <b>Senior Full Stack Developer </b> (Think Forge Global, Jul 2025 - Present)</li>
-    <li>💻 <b>Full Stack Developer</b> (Firstlogic Meta Lab, Jun 2023 - Apr 2025)</li>
+    <li>🚀 <b>Senior Full Stack Developer</b> (Jul 2025 - Present)</li>
+    <li>💻 <b>Full Stack Developer</b> (Jun 2023 - Apr 2025)</li>
     <li>⚡ Successfully shipped 50+ projects, mastering 12+ modern web technologies.</li>
     <li>🛡️ Built over 10+ high-performance APIs and optimized relational query engines to handle high traffic spikes.</li>
   </ul>
