@@ -184,7 +184,7 @@
   <ul>
     <li>🚀 <b>Senior Full Stack Developer</b> (Jul 2025 - Present)</li>
     <li>💻 <b>Full Stack Developer</b> (Jun 2023 - Apr 2025)</li>
-    <li>⚡ Successfully shipped 50+ projects, mastering 12+ modern web technologies.</li>
+    <li>⚡ Successfully shipped 30+ projects, mastering 12+ modern web technologies.</li>
     <li>🛡️ Built over 10+ high-performance APIs and optimized relational query engines to handle high traffic spikes.</li>
   </ul>
 </details>
