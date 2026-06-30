@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Solutions+Architect;Technical+Team+Lead;AI+%26+Cloud+Infrastructure+Engineer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://shijuuk.space" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-shijuuk.space-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -22,8 +28,8 @@
   <table>
     <tr>
       <td>📍 <b>Location:</b> India</td>
-      <td>💼 <b>Experience:</b> 4 Years</td>
-      <td>🚀 <b>Projects Shipped:</b> 50+</td>
+      <td>💼 <b>Experience:</b> 3+ Years</td>
+      <td>🚀 <b>Projects Shipped:</b> 30+</td>
     </tr>
   </table>
 </div>
@@ -102,7 +108,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sjuk98&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&icon_color=0072ff&border_color=0072ff&border_radius=10" alt="GitHub Stats" width="400"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=sjuk98&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&icon_color=0072ff&border_color=0072ff&border_radius=10" alt="GitHub Stats" width="400"/>
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjuk98&theme=tokyonight&background=0d1117&title=00c6ff&text=c9d1d9&fire=0072ff&ring=00c6ff&border=0072ff" alt="GitHub Streak" width="400"/>
@@ -110,7 +116,7 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjuk98&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&border_color=0072ff&border_radius=10" alt="Top Langs" width="400"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sjuk98&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&border_color=0072ff&border_radius=10" alt="Top Langs" width="400"/>
       </td>
       <td align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjuk98&theme=tokyonight" alt="Profile Summary Cards" width="400"/>
@@ -121,7 +127,7 @@
   <br/>
   
   <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=sjuk98&theme=onedark&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.devomb.com/?username=sjuk98&theme=onedark&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -203,6 +209,9 @@
 
 <div align="center">
 
+  <a href="https://shijuuk.space" target="_blank">
+    <img src="https://img.shields.io/badge/Website-shijuuk.space-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/shiju-uk-1a320620a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;
